@@ -1,0 +1,17 @@
+
+@use '../custom' as *;
+@use '../components/mixins' as *;
+
+.reservation{
+	height: 13rem;
+	margin-left: 5rem;
+	margin-right: 5rem;
+
+
+
+	.icon{
+		background-color: $primary;
+			}
+
+
+}

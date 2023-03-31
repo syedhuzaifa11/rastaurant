@@ -1,0 +1,15 @@
+@use '../custom' as *;
+@use '../components/mixins' as *;
+
+.footer{
+	background-color: $footer;
+	padding: 3rem;
+	p,{
+		color: $purple-light;
+
+	}
+	.copyright{
+		color: $purple-light;
+
+	}
+}

@@ -1,0 +1,35 @@
+
+
+@use '../custom' as *;
+
+.display-2{
+	margin-bottom: 1rem;
+	text-transform: capitalize;
+	font-family: 'Poppins', sans-serif;
+	
+	
+}
+.intro {
+		display: inline-block;
+		font-weight: 600;
+		font-family: 'Poppins', sans-serif;
+	}
+.description {
+		font-size: .9rem;
+		display: block;
+		
+		text-transform: none;
+	}	
+
+.display-3{
+	margin-bottom: 1rem;
+	font-family: 'Poppins', sans-serif;
+	font-size: 2rem;
+	color: $orange;
+}
+.display-4{
+	font-family: 'Poppins', sans-serif;
+	text-transform:capitalize;
+}
+
+

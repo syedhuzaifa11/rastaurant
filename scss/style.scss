@@ -1,0 +1,23 @@
+
+@use 'custom';
+
+// IMPORT THE COMPONENTS
+@use 'components/animations'; 
+@use 'components/buttons'; 
+@use 'components/mixins'; 
+@use 'components/typography';
+
+// IMPORT THE SECTIONS
+@use 'sections/navbar'; 
+@use 'sections/intro-section'; 
+@use 'sections/book-table'; 
+@use 'sections/care'; 
+@use 'sections/category';
+@use 'sections/chef'; 
+@use 'sections/fresh'; 
+@use 'sections/our-restuarent'; 
+@use 'sections/review'; 
+@use 'sections/footer'; 
+@use 'sections/subscribe';
+ 
+

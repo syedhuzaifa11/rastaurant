@@ -1,0 +1,22 @@
+
+@use '../custom' as *;
+@use '../components/mixins' as *;
+
+.navbar{
+	background-color:$purple-light;
+	border-radius: 3rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+    
+    .bich{
+    	margin-left: 18rem;
+    	ul{
+    		li{
+    			margin-left: 1rem;
+    		}
+    	}
+    }
+    .sign{
+    	color: green;
+    }
+}
